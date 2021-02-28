@@ -16,5 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-<img src="URL" alt="альтернативный текст"> <br>
-<img src="URL" alt="альтернативный текст">
+<img src="https://github.com/UchqunShodmonov/Plant-App-Ui/blob/master/photo_2021-03-01_01-13-40.jpg" alt="альтернативный текст"> <br>
+<img src="https://github.com/UchqunShodmonov/Plant-App-Ui/blob/master/photo_2021-03-01_01-13-44.jpg" alt="альтернативный текст">
